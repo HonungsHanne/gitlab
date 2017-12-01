@@ -12,10 +12,11 @@ private int uselessInt;
   private MyNode left;
   private MyNode right;
   private int value;
+  private String BOBsString = "i'm bob";
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
    * @param value The value of this node.
    */
   public MyNode(int value) {
@@ -110,4 +111,4 @@ private int uselessInt;
     }
     return cnt;
   }
-} 
+}
