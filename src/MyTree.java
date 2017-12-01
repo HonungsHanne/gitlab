@@ -13,7 +13,7 @@ public class MyTree {
   private int secondUselessInt;
   private int lol;
 
-  private String text = "main branch";
+  private String text = "test branch 121212";
 
 
   /**
@@ -83,4 +83,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
