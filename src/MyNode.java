@@ -7,6 +7,7 @@ package tree;
  * @see MyTree
  */
 public class MyNode {
+private int uselessInt;
   private MyNode father;
   private MyNode left;
   private MyNode right;
