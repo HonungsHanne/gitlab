@@ -12,6 +12,7 @@ public class MyTree {
   private MyNode root;
   private int secondUselessInt;
   private int lol;
+  private String text = "main branch";
 
   /**
    * Class constructor.
