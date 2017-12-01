@@ -12,6 +12,7 @@ public class MyTree {
   private MyNode root;
   private int secondUselessInt;
   private int lol;
+  private String text = "this variable belong to the branch"
 
   /**
    * Class constructor.
