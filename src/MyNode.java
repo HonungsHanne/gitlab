@@ -13,6 +13,7 @@ private int uselessInt;
   private MyNode right;
   private int value;
   private String BOBsString = "i'm bob";
+  private String BranchString = "hej";
 
   /**
    * Class constructor initializing this node's value.
