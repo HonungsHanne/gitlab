@@ -14,6 +14,7 @@ private int uselessInt;
   private int value;
   private String BOBsString = "i'm bob";
   private String BranchString = "hej";
+  private int newMethod;
 
   /**
    * Class constructor initializing this node's value.
